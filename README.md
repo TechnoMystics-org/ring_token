@@ -1,2 +1,2 @@
-# ring_token
-Ring.Army
+# Ring.Army
+https://ring.army/
